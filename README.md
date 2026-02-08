@@ -214,9 +214,9 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 **Manoranjini P**
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 📧 Email: [manoranjiniperiyasamy2005@gmail.com](mailto:manoranjiniperiyasamy2005@gmail.com])
+- 💼 LinkedIn: [https://linkedin.com/in/manoranjini-periyasamy-52839626a](https://linkedin.com/in/manoranjini-periyasamy-52839626a)
+- 🐙 GitHub: [@Manoranjini6268]([https://github.com/yourusername](https://github.com/Manoranjini6268))
 
 ---
 
